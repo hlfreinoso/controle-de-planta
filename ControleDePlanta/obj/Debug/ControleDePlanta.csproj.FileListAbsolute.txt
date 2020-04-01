@@ -1,0 +1,24 @@
+C:\Users\Heitor\source\repos\ControleDePlanta\ControleDePlanta\bin\Debug\ControleDePlanta.exe.config
+C:\Users\Heitor\source\repos\ControleDePlanta\ControleDePlanta\bin\Debug\ControleDePlanta.exe
+C:\Users\Heitor\source\repos\ControleDePlanta\ControleDePlanta\bin\Debug\ControleDePlanta.pdb
+C:\Users\Heitor\source\repos\ControleDePlanta\ControleDePlanta\obj\Debug\ControleDePlanta.csprojResolveAssemblyReference.cache
+C:\Users\Heitor\source\repos\ControleDePlanta\ControleDePlanta\obj\Debug\ControleDePlanta.Inicio.resources
+C:\Users\Heitor\source\repos\ControleDePlanta\ControleDePlanta\obj\Debug\ControleDePlanta.Properties.Resources.resources
+C:\Users\Heitor\source\repos\ControleDePlanta\ControleDePlanta\obj\Debug\ControleDePlanta.csproj.GenerateResource.Cache
+C:\Users\Heitor\source\repos\ControleDePlanta\ControleDePlanta\obj\Debug\ControleDePlanta.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\source\repos\ControleDePlanta\ControleDePlanta\obj\Debug\ControleDePlanta.exe
+C:\Users\Heitor\source\repos\ControleDePlanta\ControleDePlanta\obj\Debug\ControleDePlanta.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\ControleDePlanta\ControleDePlanta\bin\Debug\ControleDePlanta.exe.config
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\ControleDePlanta\ControleDePlanta\bin\Debug\ControleDePlanta.exe
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\ControleDePlanta\ControleDePlanta\bin\Debug\ControleDePlanta.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\ControleDePlanta\ControleDePlanta\obj\Debug\ControleDePlanta.csprojResolveAssemblyReference.cache
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\ControleDePlanta\ControleDePlanta\obj\Debug\ControleDePlanta.Inicio.resources
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\ControleDePlanta\ControleDePlanta\obj\Debug\ControleDePlanta.Properties.Resources.resources
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\ControleDePlanta\ControleDePlanta\obj\Debug\ControleDePlanta.csproj.GenerateResource.Cache
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\ControleDePlanta\ControleDePlanta\obj\Debug\ControleDePlanta.csproj.CoreCompileInputs.cache
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\ControleDePlanta\ControleDePlanta\obj\Debug\ControleDePlanta.exe
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\ControleDePlanta\ControleDePlanta\obj\Debug\ControleDePlanta.pdb
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\ControleDePlanta\ControleDePlanta\bin\Debug\ControleDePlanta.exe.manifest
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\ControleDePlanta\ControleDePlanta\bin\Debug\ControleDePlanta.application
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\ControleDePlanta\ControleDePlanta\obj\Debug\ControleDePlanta.exe.manifest
+C:\Users\Heitor\Documents\Visual Studio 2017\Projects\ControleDePlanta\ControleDePlanta\obj\Debug\ControleDePlanta.application
